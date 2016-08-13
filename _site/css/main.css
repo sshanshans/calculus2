@@ -4,10 +4,16 @@ body {
     margin: 60px auto;
     font:16px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #666;
-    width:70%
+    width:70%;
 }
 
-nav ul, footer ul {
+header {
+  padding: 10px;
+  border-top: 10px solid #eee;
+  border-bottom: 10px solid #eee;
+}
+
+nav ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: Bold;
@@ -18,11 +24,30 @@ nav ul, footer ul {
     bottom: 0;
     width: 70%;
     text-align:center;
-    display: table
-}
-nav ul li, footer ul li {
     display:table-cell;
-    width: 17.5%
+}
+
+nav ul li{
+    width: 17.5%;
+    display:table-cell;
+}
+
+section{
+padding: 10px;
+}
+
+lsection{
+width: 35%;
+padding: 10px;
+float: left;
+position:static;
+}
+
+rsection{
+width: 35%;
+padding: 10px;
+float: right;
+position: static;
 }
 
 a {
@@ -60,70 +85,24 @@ h3, h4, h5, h6 {
   color:#000;
 }
 
-  
-.container {
-  margin:0px auto;
-}
+div.container {
+     width: 100%;
 
 header {
-  width: 20%;
-  float:left;
-  border-top: 10px solid #eee;
-  border-bottom: 10px solid #eee;
-  position:fixed;
-  padding: 20px;
 }
 
-
-section {
-  width: 50%; 
-  float:right;
-  padding: 0px;
+ul{
 }
 
-hr {
-  border:2px;
-  background:#e5e5e5;
-  height:1px;
-  margin:2 2 2px;
+section{
 }
 
-@media print, screen and (max-width: 960px) {
-  
-  div.container {
-    width:auto;
-    margin:0;
-  }
-  
-nav, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-  
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0px 20px;
-  }
-  
-  header a small {
-    display:inline;
-  }
-  
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
+rsection{
 }
 
-footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
+lsection{
+}
+
 }
 
 @media print, screen and (max-width: 720px) {
