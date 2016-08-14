@@ -36,14 +36,14 @@ section{
 padding: 10px;
 }
 
-lsection{
+article{
 width: 35%;
 padding: 10px;
 float: left;
 position:static;
 }
 
-rsection{
+aside{
 width: 35%;
 padding: 10px;
 float: right;
@@ -88,7 +88,8 @@ h3, h4, h5, h6 {
 div.container {
      width: 100%;
 
-header {
+header{
+	
 }
 
 ul{
@@ -97,10 +98,10 @@ ul{
 section{
 }
 
-rsection{
+article{
 }
 
-lsection{
+aside{
 }
 
 }
