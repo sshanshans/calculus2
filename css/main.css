@@ -43,7 +43,7 @@ float: left;
 position:static;
 }
 
-side{
+aside{
 width: 35%;
 padding: 10px;
 float: right;
@@ -89,6 +89,7 @@ div.container {
      width: 100%;
 
 header{
+	
 }
 
 ul{
@@ -100,7 +101,7 @@ section{
 article{
 }
 
-side{
+aside{
 }
 
 }
