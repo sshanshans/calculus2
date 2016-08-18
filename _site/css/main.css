@@ -18,13 +18,13 @@ nav ul {
     list-style: none;
     font-weight: Bold;
     font-size: 22px;
-    border-top: 10px solid #eee;
+    border-top: 2px solid #eee;
     border-bottom: 20px solid #BF0000;
     position: fixed;
     bottom: 0;
     width: 70%;
     text-align:center;
-    display:table-cell;
+    display:table;
 }
 
 nav ul li{
@@ -36,14 +36,14 @@ section{
 padding: 10px;
 }
 
-lsection{
+article{
 width: 35%;
 padding: 10px;
 float: left;
 position:static;
 }
 
-rsection{
+aside{
 width: 35%;
 padding: 10px;
 float: right;
@@ -88,8 +88,9 @@ h3, h4, h5, h6 {
 div.container {
      width: 100%;
 
-header {
-}
+header{
+{
+
 
 ul{
 }
@@ -97,10 +98,10 @@ ul{
 section{
 }
 
-rsection{
+article{
 }
 
-lsection{
+aside{
 }
 
 }
