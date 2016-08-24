@@ -32,9 +32,6 @@ nav ul li{
     display:table-cell;
 }
 
-section{
-padding: 10px;
-}
 
 article{
 width: 35%;
@@ -48,6 +45,10 @@ width: 35%;
 padding: 10px;
 float: right;
 position: static;
+}
+
+section{
+padding: 10px;
 }
 
 a {
