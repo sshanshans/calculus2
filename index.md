@@ -22,7 +22,7 @@ Textbook: <br>
 Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
 122 Coursepack for 2016-2017 (the lab manual) <br>
 
-Software: Maple
+Software: Maple. See the [Laboratory](/calculus/lab/lab.html) section for details. <br>
  
 ### Course Description and Objectives
 
@@ -31,20 +31,17 @@ Calculus studies two ideas, the effects of the way things change and the idea of
 We will focus on problem solving skills and coherent writing. The course will have a slightly more theoretical flavor than your high school calculus courses, and the problems may be more sophisticated (but you are better prepared for this). You are expected to be Maple literate. 
 
 ### Grading :
-Your final grade will be computed using the following scheme: <br>
+Your semester grade for this course will be determined by me based off my assessment of your overall performance in the course. Scores from the block final exam will be used in order to guage the performance of this section as a whole in comparison to other sections. This block grading system helps to ensure consistency of the meaning of letter grades across all sections of Math 122L. As a result of this policy, any letter grade assigned to assessments prior to the final exam should be considered an estimate. Your final grade in this course will be comprised of the following estimates:
 Labs and Projects 20% <br>
 Homework and quizzes 10% <br>
 Midterms 40% <br>
-Final Exam 30%
-
-### Labs
-There is a weekly laboratory that will introduce new topics, reinforce the topics covered in class, or
-explore applications of calculus. You are responsible for finding your own lab partners -- use this opportunity to meet new friends and learn from each other. Each lab group should consist of 4 to 5 people. The names of all group members should be written on any submitted work. If one member did not fully participate, then that person's name must be omitted. A second report from the missing partner will not be accepted at a later date without previous permission from me. If such a situation arises, contact me as soon as possible. 
+Final Exam 30% <br>
+To see a detailed description of grading in lab calculus courses, please reference the document titled Block Calculus Course Policies, which can be found on the Piazza site.
 
 ### Assignments:
 
 * Reading mini-quizzes: <br>
-Before each class, you will be expected to read the section in the text for that class. After that class, you should study the materials we did in  class critically, and read the text again. On every Tuesday's class, you will be asked to complete a mini-quiz with a question on the reading for that day, or on what we did in the preceding class. No make-up quizzes will be given. Although I will drop the lowest 
+Before each class, you will be expected to read the section in the text for that class. After that class, you should study the materials we did in  class critically, and read the text again. On every Tuesday's class, you will be asked to complete a mini-quiz with a question on the reading for that day, or on what we did in the preceding class. No make-up quizzes will be given, although I will drop the lowest grade. 
 
 * Daily problem sets:  <br>
 The homework problems are assigned after each lesson and collected the following class.  You are encouraged to collaborate with others in the course, use the resources of the help room and the Piazza course site. But your written solutions must be your own, reflecting your own personal understanding. Late homework will not be accepted. 
@@ -65,6 +62,10 @@ Calculators are not allowed in all quizzes, midterms and exams. However, in the 
 ### Absences:
 There will be no make-up exams nor rescheduled exams, except excused by your dean in the following cases:
 
+* serious illness only if documentation is provided with a written excuse from your dean. <br>
 * serious illness or death in the family only if documentation is provided with a written excuse from your dean. <br>
 * athletic commitments or religious obligations only if documentation is provided with a written excuse from your dean and prior notice is given. In such cases, rescheduled exams must be taken before the rest of the class.  
+
+### Duke Community Standard
+Students are expected to adhere to the [Duke Community Standard](http://integrity.duke.edu/new.html) . If a student is found responsible for academic dishonesty on a graded assignment, I reserve the right to assign a grade of zero to the assignment in question and to further reduce the final grade for the course by one or more letter grades?possibly to a failing grade. 
 
