@@ -4,7 +4,7 @@ title: Introductory Calculus II with Applications
 description: course webpage
 --- 
 
-![alt text](/calculus/images/needle"Buffon's Needle")
+![alt text](/calculus2/images/needle.png"Buffon's Needle")
 
 ### Course Instructor
 [Shan Shan](https://sshanshans.github.io)  <br>
@@ -38,7 +38,8 @@ Midterms 40% <br>
 Final Exam 30%
 
 ### Labs
-There is a weekly laboratory that will introduce new topics, reinforce the topics covered in class, orexplore applications of calculus. You are responsible for finding your own lab partners -- use this opportunity to meet new friends and learn from each other. Each lab group should consist of 4 to 5 people. The names of all group members should be written on any submitted work. If one member did not fully participate, then that person's name must be omitted. A second report from the missing partner will not be accepted at a later date without previous permission from me. If such a situation arises, contact me as soon as possible. 
+There is a weekly laboratory that will introduce new topics, reinforce the topics covered in class, or
+explore applications of calculus. You are responsible for finding your own lab partners -- use this opportunity to meet new friends and learn from each other. Each lab group should consist of 4 to 5 people. The names of all group members should be written on any submitted work. If one member did not fully participate, then that person's name must be omitted. A second report from the missing partner will not be accepted at a later date without previous permission from me. If such a situation arises, contact me as soon as possible. 
 
 ### Assignments:
 
