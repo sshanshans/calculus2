@@ -4,7 +4,7 @@ title: Introductory Calculus II with Applications
 description: course webpage
 --- 
 
-<img src="/calculus/images/needle.png" >
+<img src="/calculus2/images/needle.png" >
 
 ### Course Instructor
 [Shan Shan](https://sshanshans.github.io)  <br>
