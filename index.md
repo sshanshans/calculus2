@@ -22,7 +22,7 @@ Textbook: <br>
 Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
 122 Coursepack for 2016-2017 (the lab manual) <br>
 
-Software: Maple. See the [Laboratory](/calculus/lab/lab.html) section for details. <br>
+Software: Maple. See the [Laboratory](/calculus2/lab/lab.html) section for details. <br>
  
 ### Course Description and Objectives
 
