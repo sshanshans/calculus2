@@ -4,7 +4,7 @@ title: Introductory Calculus II with Applications
 description: course webpage
 --- 
 
-![alt text](/images/needle.png"Buffon's Needle")
+! [Buffon's needle](/calculus/images/needle.png)
 
 ### Course Instructor
 [Shan Shan](https://sshanshans.github.io)  <br>
@@ -31,7 +31,7 @@ Calculus studies two ideas, the effects of the way things change and the idea of
 We will focus on problem solving skills and coherent writing. The course will have a slightly more theoretical flavor than your high school calculus courses, and the problems may be more sophisticated (but you are better prepared for this). You are expected to be Maple literate. 
 
 ### Grading :
-Your semester grade for this course will be determined by me based off my assessment of your overall performance in the course. Scores from the block final exam will be used in order to guage the performance of this section as a whole in comparison to other sections. This block grading system helps to ensure consistency of the meaning of letter grades across all sections of Math 122L. As a result of this policy, any letter grade assigned to assessments prior to the final exam should be considered an estimate. Your final grade in this course will be comprised of the following: <br>
+Your semester grade for this course will be determined by me based off my assessment of your overall performance in the course. Scores from the block final exam will be used in order to guage the performance of this section as a whole in comparison to other sections. This block grading system helps to ensure consistency of the meaning of letter grades across all sections of Math 122L. As a result of this policy, any letter grade assigned to assessments prior to the final exam should be considered an estimate. Your final grade in this course will be roughly comprised of the following: <br>
 
 Labs and Projects 20% <br>
 Homework and quizzes 10% <br>
@@ -70,5 +70,5 @@ There will be no make-up exams nor rescheduled exams, except excused by your dea
 
 ### Duke Community Standard: 
 
-Students are expected to adhere to the [Duke Community Standard](http://integrity.duke.edu/new.html) . If a student is found responsible for academic dishonesty on a graded assignment, I reserve the right to assign a grade of zero to the assignment in question and to further reduce the final grade for the course by one or more letter grades?possibly to a failing grade. 
+Students are expected to adhere to the [Duke Community Standard](http://integrity.duke.edu/new.html) . If a student is found responsible for academic dishonesty on a graded assignment, I reserve the right to assign a grade of zero to the assignment in question and to further reduce the final grade for the course by one or more letter grades possibly to a failing grade. 
 
