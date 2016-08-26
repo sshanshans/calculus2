@@ -6,23 +6,15 @@ description: course webpage
 
 <img src="/calculus2/images/needle.png" >
 
-### Course Instructor
-[Shan Shan](https://sshanshans.github.io)  <br>
+### Course Information
+Lectures: MW 3:20-4:10, Tu 3:05-4:20; West Duke 105 <br>
+Labs: Th 3:05 - 4:20; West Duke 105  <br>
+Instructor: [Shan Shan](https://sshanshans.github.io)  <br>
 [email](mailto:sshan@math.duke.edu): sshan at math dot duke dot edu  <br>
-Help Room Hours: TBA 
-
-### Classtime and Location
-Lectures: MW 3:20-4:10, Tu 3:05-4:20 <br>
-Labs: Th 3:05 - 4:20  <br>
-
-West Duke 105 <br>
-
-### Materials 
-Textbook: <br>
-Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
-122 Coursepack for 2016-2017 (the lab manual) <br>
-
-Software: Maple. See the [Laboratory](/calculus2/lab/lab.html) section for details. <br>
+Help room hours: Tu 6:00-7:00, W 4:00-5:00
+Materials: * Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
+                 * 122 Coursepack for 2016-2017 (the lab manual) <br>
+                 * Maple.
  
 ### Course Description and Objectives
 
@@ -66,9 +58,8 @@ There will be no make-up exams nor rescheduled exams, except excused by your dea
 
 * serious illness only if documentation is provided with a written excuse from your dean. <br>
 * serious illness or death in the family only if documentation is provided with a written excuse from your dean. <br>
-* athletic commitments or religious obligations only if documentation is provided with a written excuse from your dean and prior notice is given. In such cases, rescheduled exams must be taken before the rest of the class.   <br>
+* athletic commitments or religious obligations only if documentation is provided with a written excuse from your dean and prior notice is given. In such cases, rescheduled exams must be taken before the rest of the class.  
 
 ### Duke Community Standard: 
-
 Students are expected to adhere to the [Duke Community Standard](http://integrity.duke.edu/new.html) . If a student is found responsible for academic dishonesty on a graded assignment, I reserve the right to assign a grade of zero to the assignment in question and to further reduce the final grade for the course by one or more letter grades possibly to a failing grade. 
 
