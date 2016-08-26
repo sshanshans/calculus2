@@ -10,11 +10,11 @@ description: course webpage
 Lectures: MW 3:20-4:10, Tu 3:05-4:20; West Duke 105 <br>
 Labs: Th 3:05 - 4:20; West Duke 105  <br>
 Instructor: [Shan Shan](https://sshanshans.github.io)  <br>
-[email](mailto:sshan@math.duke.edu): sshan at math dot duke dot edu  <br>
-Help room hours: Tu 6:00-7:00, W 4:00-5:00
-Materials: * Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
-                 * 122 Coursepack for 2016-2017 (the lab manual) <br>
-                 * Maple.
+Help room hours: Tu 6:00-7:00, W 4:00-5:00 <br>
+
+* Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
+* 122 Coursepack for 2016-2017 (the lab manual) <br>
+* Maple.
  
 ### Course Description and Objectives
 

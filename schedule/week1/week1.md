@@ -24,5 +24,5 @@ description: weekly schedule
 1-4 (Lab) Riemann Sums  
 
 * daily homework: 5.1: 2,13,15; 5.9/3,14(a,b),15(a,b),27(a), 37; AHP: Riemann Sums   <br>
-* lab assignment:  [group project](\calculus2\schdule\week1\1-4Shan.pdf)
+* lab assignment:  [group project](\calculus2\schedule\week1\1-4Shan.pdf)
 
