@@ -7,14 +7,13 @@ description: course webpage
 <img src="/calculus2/images/needle.png" >
 
 ### Course Information
-Lectures: MW 3:20-4:10, Tu 3:05-4:20; West Duke 105 <br>
-Labs: Th 3:05 - 4:20; West Duke 105  <br>
+Lectures: MW 3:20-4:10 West Duke 105, Tu 3:05-4:20 West Duke 108B <br>
+Labs: Th 3:05 - 4:20; West Duke 108B  <br>
 Instructor: [Shan Shan](https://sshanshans.github.io)  <br>
-Help room hours: Tu 6:00-7:00, W 4:00-5:00 <br>
-
-* Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
-* 122 Coursepack for 2016-2017 (the lab manual) <br>
-* Maple.
+Office hours: Tu 6:00-7:00, W 4:00-5:00 Carr 132 <br>
+Calculus: Concepts & Contexts by James Stewart, 4th ed. <br>
+122 Coursepack for 2016-2017 (the lab manual) <br>
+Maple
  
 ### Course Description and Objectives
 
