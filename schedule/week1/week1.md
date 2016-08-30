@@ -9,7 +9,7 @@ description: weekly schedule
 
 * worksheet [pdf](\calculus2\schedule\week1\1-1Shan.pdf)  <br>
 * reading:  Maple Tutorial (p.71 -p.75 in lab manual); [The Secret Spiritual History of Calculus](http://www.scientificamerican.com/article/the-secret-spiritual-history-of-calculus/)
-* daily homework: Textbook[pdf](\calculus2\schedule\week1\dailyhomework.pdf): p.165(bottom): 1,3,5,9,10,13; p.166: 23,29,33; p.167: 42,43,45; AHP: Review of AP Differentiation Topics [pdf]\calculus2\schedule\week1\122AdditionalHWProblems.pdf)  <br>
+* daily homework: Textbook[pdf](\calculus2\schedule\week1\dailyhomework.pdf): p.165(bottom): 1,3,5,9,10,13; p.166: 23,29,33; p.167: 42,43,45; AHP: Review of AP Differentiation Topics [pdf](\calculus2\schedule\week1\122AdditionalHWProblems.pdf)  <br>
 
 1-2 (Lab) L'Hopital's Rule and Relative Rates of Growth 
 
