@@ -7,7 +7,7 @@ description: weekly schedule
 
 2-1 Definition of the integral    <br>
 
-* worksheet [(pdf)](\calculus2\schedule\week2\2-1Shan.pdf) [(solution)](\calculus2\schedule\week2\2-1ShanSoln)  <br>
+* worksheet [(pdf)](\calculus2\schedule\week2\2-1Shan.pdf) [(solution)](\calculus2\schedule\week2\2-1ShanSoln.pdf)  <br>
 * reading: Section 5.2 p.343 - 353   <br>
 * daily homework: 5.2: 17-20,33,35,38-43,47,48,53; AHP: Definition of the Definite Integral.  <br>
 
