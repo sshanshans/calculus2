@@ -21,6 +21,7 @@ description: weekly schedule
 2-3 Fund. Theorem of Caluclus Pt. II  <br>
 
 * worksheet [(pdf)](\calculus2\schedule\week2\2-3Shan.pdf)  <br>
+* worksheet solution [(pdf)](\calculus2\schedule\week2\2-3ShanSoln.pdf)  <br>
 * reading: Section 5.3 p. 356- 363, 5.4 p.367-372 <br>
 * daily homework: 5.4: 1,2,4-8,11,13,14,16,17,21,22,31; AHP: FTC Part II  <br>
 
