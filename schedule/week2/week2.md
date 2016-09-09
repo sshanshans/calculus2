@@ -28,7 +28,7 @@ description: weekly schedule
 2-4 (Lab) Review of AP AB Integration Topics  <br>
 
 * daily homework: 4.8: 7,12,13,18,32,35,51; 6.2: 3,9,16,20,34; 6.5/3,7,12,14,16,21.  <br>
-* lab assignment:   <br>
+* lab assignment [(pdf)](\calculus2\schedule\week2\2-4lab.pdf)   <br>
 
 
 
