@@ -7,7 +7,7 @@ description: weekly schedule
 
 3-1 U-Substitution  <br>
 
-* lecture note [pdf]  <br>
+* worksheet [(pdf)](\calculus2\schedule\week3\3-1Shan.pdf) <br>
 * reading:  <br>
 * daily homework: 5.5: 5,12,18,20,29,44,47,52,57,61,67,68,70,71; AHP: U-Substitution.  <br>
 
