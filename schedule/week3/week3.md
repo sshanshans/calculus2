@@ -15,6 +15,7 @@ description: weekly schedule
 3-2 Integration by Parts 
 
 * worksheet [(pdf)](\calculus2\schedule\week3\3-2Shan.pdf)   <br>
+* worksheet solution [(pdf)](\calculus2\schedule\week3\3-2ShanSolutions.pdf)
 * reading: 5.6 p. 383-387  <br>
 * daily homework: 5.6: 5,9,18,25,29,36,39,40,45; AHP: Integration by Parts.  <br>
 
