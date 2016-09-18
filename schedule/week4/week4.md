@@ -6,6 +6,7 @@ description: weekly schedule
 ### Improper Integrals and Exam 1
 
 4-1 Improper Integrals 
+
 * worksheet [(pdf)](\calculus2\schedule\week4\4-1Shan.pdf) <br>
 * reading: 5.10 <br>
 * daily homework: 5.10: 3,5,8-10,19,21,26,31,34,50,52a,b,53; AHP: Improper Integrals. <br>
