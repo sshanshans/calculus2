@@ -7,11 +7,12 @@ description: weekly schedule
 
 5-1 Introduction to Probability 
 
-* daily homework: CP p.91: 9-15; AHP: Introductoin to Probability. <br>
+* annotated lecture notes[(pdf)](\calculus2\schedule\week5\5-1Shan-annotated.pdf)
+* daily homework: CP p.83: 9-15; AHP: Introductoin to Probability. <br>
 
 5-2 Expected Value
 
-* daily homework: CP p.97: 7-13, AHP: Expected Value. <br>
+* daily homework: CP p.87: 7-13, AHP: Expected Value. <br>
 
 5-3 Introduction to Sequences and Seires
 
