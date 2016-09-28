@@ -12,6 +12,7 @@ description: weekly schedule
 
 5-2 Expected Value
 
+* annotated lecture notes[(pdf)](\calculus2\schedule\week5\5-2Shan-annotated.pdf)
 * daily homework: CP p.87: 7-13, AHP: Expected Value. <br>
 
 5-3 Introduction to Sequences and Seires
