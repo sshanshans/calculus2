@@ -8,6 +8,7 @@ description: weekly schedule
 6-1 Integral Test
 
 * reading: Section 8.3 p.575 - 578
+* worksheet solutions [(pdf)](\calculus2\schedule\week6\6-1Solutions.pdf)
 * daily homework: 8.3: 2,5-8,11-18,31,32,34,36; AHP: Integral Test. <br>
 
 6-2 Comparison Test
@@ -21,6 +22,8 @@ description: weekly schedule
 * daily homework: 8.4: 1,3-14,20; AHP: Alternating Series and Absolute Convergence. <br>
 
 5-4 Gateway Test
+
+* practice test solutions [(pdf)](\calculus2\schedule\week6\practicegatewaysolutions.pdf)
 
 
 

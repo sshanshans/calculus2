@@ -22,6 +22,7 @@ description: weekly schedule
 
 5-4 Lab: Probability and Geometric Series
 
+* Lab assignment: [Sequences Series Probability Lab Project](\calculus2\schedule\week5\SequencesSeriesProbabilityLabProject.pdf)
 * daily homework: 8.2: 6,11,14,15,17,35,36,41,43,49,50,53,54; AHP: Probability and Geometric Series.
 
 
