@@ -4,7 +4,7 @@ title: Introductory Calculus II with Applications
 description: course webpage
 --- 
 
-<img src="/calculus2/images/needle.png" >
+[<img src="/calculus2/images/needle.png" >](\calculus2\project\project.html) 
 
 ### Course Information
 Lectures: MW 3:20-4:10 West Duke 105, Tu 3:05-4:20 West Duke 108B <br>
