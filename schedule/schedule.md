@@ -3,6 +3,13 @@ layout: default
 title: Schedule
 description: weekly schedule
 --- 
+* [week 13](\calculus2/schedule/week13/week13.html) Applications of Differential Equations<br>
+* [week 12](\calculus2/schedule/week12/week12.html) Differential Equations <br>
+* [week 11](\calculus2/schedule/week11/week11.html) Fourier Series <br>
+* [week 10](\calculus2/schedule/week10/week10.html) Taylor Polynomials and Series <br>
+* [week 9](\calculus2/schedule/week9/week9.html) Power Series and Test 2 <br>
+* [week 8](\calculus2/schedule/week8/week8.html) Distributions and Centers of Mass <br>
+* [week 7](\calculus2/schedule/week7/week7.html) Ratio Test <br>
 * [week 6](\calculus2/schedule/week6/week6.html) Convergence Tests <br>
 * [week 5](\calculus2/schedule/week5/week5.html) Probability and Series <br>
 * [week 4](\calculus2/schedule/week4/week4.html) Improper Integral and Test 1 <br>
