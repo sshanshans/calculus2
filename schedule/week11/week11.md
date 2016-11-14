@@ -20,6 +20,8 @@ description: weekly schedule
 
 11-4 Lab: Fourier Series
 
+*lab assignment: [pdf](\calculus2\schedule\week11\PowerTaylorFourierSeries.pdf)
+
 
 
 
