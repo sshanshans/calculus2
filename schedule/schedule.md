@@ -3,6 +3,8 @@ layout: default
 title: Schedule
 description: weekly schedule
 --- 
+* [week 15](\calculus2/schedule/week15/week15.html) Differential Equations Round 2 <br>
+* [week 14](\calculus2/schedule/week14/week14.html) Numerical ODE and Test 3 <br>
 * [week 13](\calculus2/schedule/week13/week13.html) Applications of Differential Equations<br>
 * [week 12](\calculus2/schedule/week12/week12.html) Differential Equations <br>
 * [week 11](\calculus2/schedule/week11/week11.html) Fourier Series <br>
