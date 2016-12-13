@@ -11,6 +11,8 @@ description: weekly schedule
 
 14-2 Catch up day <br>
 
+* lab solution: [(pdf)](\calculus2\schedule\week14\ode.pdf)
+
 14-3 Review <br>
 
 14-4 Exam 3 <br>
