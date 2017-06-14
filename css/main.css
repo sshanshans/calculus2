@@ -107,6 +107,14 @@ aside{
 
 }
 
+img {
+    display: inline-block;
+    width: 100%; 
+    height: auto;
+    text-align: center;
+    
+}
+
 @media print, screen and (max-width: 720px) {
   
   div.container {
